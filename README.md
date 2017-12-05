@@ -14,17 +14,8 @@ An Entity Relationship (ER) Diagram is a type of flowchart that illustrates how 
 
 Defines the numerical attributes of the relationship between two entities or entity sets. The three main cardinal relationships are one-to-one, one-to-many, and many-many.
 
-![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols-1.png?raw=true "ERD")
+![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols.pngraw=true "ERD")
 
-![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols-2.png?raw=true "ERD")
-
-![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols-3.png?raw=true "ERD")
-
-![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols-4.png?raw=true "ERD")
-
-![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols-5.png?raw=true "ERD")
-
-![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols-6.png?raw=true "ERD")
 
 ### Example-Scenario
 
