@@ -18,8 +18,12 @@ Defines the numerical attributes of the relationship between two entities or ent
 ![Alt text](https://github.com/matthewsides/Database/blob/master/erd-symbols.png?raw=true "ERD")
 
 
-### Example-Scenario
+### Example - Scenario
 
 The below ERD (Entity Relationship Diagram) illustrates how the “entities”, in this instance or scenario; student, module, course, department, etc., relate to each other within a system.
 
 ![Alt text](https://github.com/matthewsides/Database/blob/master/Entity%20Relationship%20Diagram.png?raw=true "ERD")
+
+### Reference - Links
+
+Linkone : https://www.lucidchart.com/pages/er-diagrams
