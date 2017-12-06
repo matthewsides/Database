@@ -24,6 +24,12 @@ The below ERD (Entity Relationship Diagram) illustrates how the “entities”, 
 
 ![Alt text](https://github.com/matthewsides/Database/blob/master/Entity%20Relationship%20Diagram.png?raw=true "ERD")
 
+
+### Example - Tools
+This segment pertains to the tools used in the creation of the example above, which was the ___ site a subscription based site used in the creation of flowcharts, ERD's, etc., though a free trial may be initiated in the instance that both email, password and a username are given.
+
+The link to the site may be found within the references section.
+
 ### References - Links
 
 Linkone : https://www.lucidchart.com/pages/er-diagrams
