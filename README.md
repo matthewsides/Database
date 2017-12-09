@@ -3,6 +3,7 @@
 
 [1] ERD
 
+[2] SQL - DataBase
 
 ## [1] ERD-Entity Relationship Diagram
 
@@ -34,7 +35,7 @@ The link to the site may be found within the references section.
 
 Linkone : https://www.lucidchart.com/pages/er-diagrams
 
-## [2] SQL DataBase
+## [2] SQL - DataBase
 
 The SQL Database is essentially a structural layout based around the ERD example and scenario, though it is not fully completed it shows the basis in which what would be done to fully complete the database as the functional areas are integrated but no information fed into the tables, with the table insert fucntion needing duplication and actual information to fill, store and display information in the tables.
 
