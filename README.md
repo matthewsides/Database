@@ -38,4 +38,10 @@ Linkone : https://www.lucidchart.com/pages/er-diagrams
 
 The SQL Database is essentially a structural layout based around the ERD example and scenario, though it is not fully completed it shows the basis in which what would be done to fully complete the database as the functional areas are integrated but no information fed into the tables, with the table insert fucntion needing duplication and actual information to fill, store and display information in the tables.
 
-This may be found and downloaded in the DataBase repository (this one), for self and own use. I would recommend using notepad to edit the code since that is what I used when writing it and then using W3S free SQL database and there turtorial and material on the subject since it is all free of charge and relates to databases and was what was used in the development of the database stored in this repository.
+This may be found and downloaded in the DataBase repository (this one), for self and own use. I would recommend using notepad++ to edit the code since that is what I used when writing it and then using W3S free SQL database and there tutorial and material on the subject since it is all free of charge and relates to databases and was what was used in the development of the database stored in this repository. Links will be posted below for use and reference.
+
+references/links: 
+
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_create_table
+
+https://www.w3schools.com/sql/default.asp
