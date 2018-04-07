@@ -5,7 +5,7 @@
 
 [2] SQL - DataBase
 
-[3] DataBase - Example
+[3] DataBase - Generic RPG Example
 
 ## [1] ERD-Entity Relationship Diagram
 
@@ -52,9 +52,18 @@ https://www.w3schools.com/sql/default.asp
 https://notepad-plus-plus.org/download/v7.5.3.html
 
 
-## DataBase - Example
-### 
+## DataBase - Generic RPG Example
+
+### Introduction 
+
+### Scope
+
+### Type Conventions
+
 ### User stories
+
+
+
 ### ERD 
 
 
