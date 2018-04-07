@@ -126,4 +126,7 @@ so I may differentiate said enemys
 
 ### ERD 
 
+The below ERD (Entity Relationship Diagram) illustrates how the “entities”, in this instance or scenario; Hero,Enemies,Skills, etc., relate to each other within a system.
+
+![Alt text](https://github.com/matthewsides/Database/blob/master/ERD-RPG.png?raw=true "ERD")
 
