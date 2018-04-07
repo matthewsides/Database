@@ -56,7 +56,7 @@ https://notepad-plus-plus.org/download/v7.5.3.html
 
 ### Introduction 
 
-This is a documentation of the internal content pertaining to the scenario and design of a database. Whilst further design documentation ,the illustrated implementation and testing may be seen in external documentation. This external documentation is avaliable to download in this repositorys file libary.
+This is a documentation of the internal content pertaining to the scenario and design of a database based around an RPG,fantasy styled game. Whilst further design documentation ,the illustrated implementation and testing may be seen in external documentation. This external documentation is avaliable to download in this repositorys file libary.
 
 ### Scope
 
