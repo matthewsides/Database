@@ -96,6 +96,14 @@ Things that have not been offically agreed on but which are suggested by the aut
   
   So that I may know whether I may potentional fight an enemy or when I unlock another skill
 
+
+• As a User
+  
+  I want to see my Health points (HP)
+  
+  So that I may gauge whether I am close to dying
+
+
 ### ERD 
 
 
