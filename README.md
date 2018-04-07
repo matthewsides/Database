@@ -83,7 +83,8 @@ Things that have not been offically agreed on but which are suggested by the aut
   
   So that I may determine my appearance and features
   
-•
+• 
+
 
 •
 
