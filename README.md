@@ -83,10 +83,18 @@ Things that have not been offically agreed on but which are suggested by the aut
   
   So that I may determine my appearance and features
   
-• 
+• As a User 
+  
+  I would like a display for the characters current status
+  
+  So that I may view and remedy any buffs or debuffs my character is experiencing 
 
 
-•
+• As a User
+
+  I would like to be able to see a visual representation of my current level
+  
+  So that I may know whether I may potentional fight an enemy or when I unlock another skill
 
 ### ERD 
 
