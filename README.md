@@ -56,9 +56,17 @@ https://notepad-plus-plus.org/download/v7.5.3.html
 
 ### Introduction 
 
+This is a documentation of the internal content pertaining to the scenario and design of a database. Whilst further design documentation ,the illustrated implementation and testing may be seen in external documentation. This external documentation is avaliable to download in this repositorys file libary.
+
 ### Scope
 
+This documentation is intended to be read by those involved in the design, implementation and testing of a data base for a provisional RPG game.  
+
 ### Type Conventions
+
+Things that have been discussed in a meeting are presented in this document with no asterisks.
+
+Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
 ### User stories
 
