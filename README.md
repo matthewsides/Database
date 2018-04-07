@@ -70,7 +70,22 @@ Things that have not been offically agreed on but which are suggested by the aut
 
 ### User stories
 
+• As a User 
 
+  I would like to be able to input a name
+  
+  So that I have a unique identifier
+  
+ 
+• As a User 
+
+  I want to be able to choose a race from a pre-defined set
+  
+  So that I may determine my appearance and features
+  
+•
+
+•
 
 ### ERD 
 
