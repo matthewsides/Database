@@ -103,6 +103,26 @@ Things that have not been offically agreed on but which are suggested by the aut
   
   So that I may gauge whether I am close to dying
 
+• As a User
+
+  I want to Know each enemies HP
+  
+  So that I may know how long I have until it perishes 
+  
+  
+• As a User
+
+I want to know the damage output
+
+So that I may know if its possible to take on said enemy with my current set up (level/HP/Skills)
+
+• As a User
+
+I would like to see the enemys name 
+
+so I may differentiate said enemys 
+
+
 
 ### ERD 
 
