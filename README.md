@@ -130,3 +130,11 @@ The below ERD (Entity Relationship Diagram) illustrates how the “entities”, 
 
 ![Alt text](https://github.com/matthewsides/Database/blob/master/ERD-RPG.png?raw=true "ERD")
 
+### Downloads & References
+
+The Entity-relationship-diagram was produced using draw.io, an online flow chart maker.The data dictionary and testing was documented using the microsoft application excel. While another microsoft application utilised was word for the user manual and database design document. The data base itself was created in Access, all the previously mentioned files may be found and downloaded in this repository libary (the "DataBase" GitHub repository).  Any additional information is covered on this README.md page.
+
+
+link -
+
+https://www.draw.io/
