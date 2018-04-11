@@ -183,7 +183,13 @@ The image below shows the user notification or prompt that appears if invalid da
 
 ![Alt text](https://github.com/matthewsides/Database/blob/master/Form_Validation.png?raw=true "ERD")
  
-
+ #### Querys 
+ 
+This is essentially a query run to count specific values from a table and display it as its own table with the entries included. By entering in SQL view SELECT COUNT(*) FROM HEROES; and running it, a table is brought up counting all the entries in a specific table.
+ 
+ ![Alt text](https://github.com/matthewsides/Database/blob/master/Query_Table.png?raw=true "ERD")
+ 
+ 
 ### Downloads & References
 
 The Entity-relationship-diagram was produced using draw.io, an online flow chart maker.The data dictionary and testing was documented using the microsoft application excel. While another microsoft application utilised was word for the user manual and database design document. The data base itself was created in Access, all the previously mentioned files may be found and downloaded in this repository libary (the "DataBase" GitHub repository).  Any additional information is covered on this README.md page.
