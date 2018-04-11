@@ -155,18 +155,34 @@ The below ERD (Entity Relationship Diagram) illustrates how the “entities”, 
 
 • DROP INDEX - deletes an index
 
-### Forms - Examples
+### DB-Images
+
+#### Forms 
 
 The below form illustrated details an individual entry from the table that may either be updated or deleted. All the fields are noted on the left next to the insert box, theses fields are all the elements stored in the table "".
 
+![Alt text](https://github.com/matthewsides/Database/blob/master/Form_Example.png?raw=true "ERD")
 
+The navigational form utilises tabs enabling quick browsing and access to other forms / reports.
+
+![Alt text](https://github.com/matthewsides/Database/blob/master/Form_Tabs.png?raw=true "ERD")
+
+#### Reports
+
+The reports are a database object used to display and summarize data in an organized manner. 
+
+![Alt text](https://github.com/matthewsides/Database/blob/master/Form_Reports.png?raw=true "ERD")
+
+#### Data Validation
+
+The Image below shows the field HP in the form view, using check constraint from SQL a base and limit value has been set to decide the valid input and factors.
+
+![Alt text](https://github.com/matthewsides/Database/blob/master/Form_HP.png?raw=true "ERD")
+
+The image below shows the user notification or prompt that appears if invalid data is inputted and recieved.
+
+![Alt text](https://github.com/matthewsides/Database/blob/master/Form_Validation.png?raw=true "ERD")
  
-
-
-
-
-
-
 
 ### Downloads & References
 
