@@ -52,15 +52,15 @@ https://www.w3schools.com/sql/default.asp
 https://notepad-plus-plus.org/download/v7.5.3.html
 
 
-## DataBase - Generic RPG Example
+## DataBase - Generic Game RPG Creation Example
 
 ### Introduction 
 
-This is a documentation of the internal content pertaining to the scenario and design of a database based around an RPG,fantasy styled game. Whilst further design documentation ,the illustrated implementation and testing may be seen in external documentation. This external documentation is avaliable to download in this repositorys file libary.
+This is a documentation of the internal content pertaining to the scenario and design of a database based around user game design. Whilst further design documentation ,the illustrated implementation and testing may be seen in external documentation. This external documentation is avaliable to download in this repositorys file libary.
 
 ### Scope
 
-This documentation is intended to be read by those involved in the design, implementation and testing of a data base for a provisional RPG game.  
+This documentation is intended to be read by those involved in the design, implementation and testing of a data base for a provisional  game rpg-esc creation system.  
 
 ### Type Conventions
 
