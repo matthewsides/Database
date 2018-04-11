@@ -157,7 +157,10 @@ The below ERD (Entity Relationship Diagram) illustrates how the “entities”, 
 
 ### Forms - Examples
 
+The below form illustrated details an individual entry from the table that may either be updated or deleted. All the fields are noted on the left next to the insert box, theses fields are all the elements stored in the table "".
 
+
+ 
 
 
 
