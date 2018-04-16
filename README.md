@@ -194,13 +194,13 @@ This is essentially a query run to count specific values from a table and displa
  
 ### Database Documentation 
 
-[Design Documentation](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
+[Design Documentation](https://github.com/matthewsides/Database/blob/master/Database_Design_Document.docx?raw=true)
 
 
-[User Manual](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
+[User Manual](https://github.com/matthewsides/Database/blob/master/UserManual.docx?raw=true)
 
 
-[Data Dictionary](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
+[Data Dictionary](https://github.com/matthewsides/Database/blob/master/Data_Dictionary.xlsx?raw=true)
  
 ### Downloads & References
 
