@@ -155,6 +155,10 @@ The below ERD (Entity Relationship Diagram) illustrates how the “entities”, 
 
 • DROP INDEX - deletes an index
 
+### SQL Code
+
+[SQL Code](https://github.com/matthewsides/Database/blob/master/GDB.sql?raw=true)
+
 ### DB-Images
 
 #### Forms 
