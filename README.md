@@ -193,9 +193,13 @@ This is essentially a query run to count specific values from a table and displa
  
  ![Alt text](https://github.com/matthewsides/Database/blob/master/Query_Table.png?raw=true "ERD")
  
- 
- ### Test Plan
- 
+### Test Plan
+
+[Test Plan](https://github.com/matthewsides/Database/blob/master/Test_Plan.xlsx?raw=true)
+
+![Alt text](https://github.com/matthewsides/Database/blob/master/Test_Plan_DB.png?raw=true "ERD")
+
+
 ### Database Documentation 
 
 [Design Documentation](https://github.com/matthewsides/Database/blob/master/Database_Design_Document.docx?raw=true)
