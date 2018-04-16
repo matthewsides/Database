@@ -192,7 +192,15 @@ This is essentially a query run to count specific values from a table and displa
  
  ### Test Plan
  
- 
+### Database Documentation 
+
+[Design Documentation](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
+
+
+[User Manual](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
+
+
+[Data Dictionary](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
  
 ### Downloads & References
 
