@@ -197,7 +197,7 @@ This is essentially a query run to count specific values from a table and displa
 
 [Test Plan](https://github.com/matthewsides/Database/blob/master/Test_Plan.xlsx?raw=true)
 
-![Alt text](https://github.com/matthewsides/Database/blob/master/Test_Plan_DB.png?raw=true "ERD")
+![Alt text](https://github.com/matthewsides/Database/blob/master/DB_Test_Plan.png?raw=true "ERD")
 
 
 ### Database Documentation 
